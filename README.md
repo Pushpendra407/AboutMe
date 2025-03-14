@@ -34,7 +34,7 @@
   - Expanding expertise in **cloud-based testing** environments and **DevOps tools** like **Jenkins** and **GitHub Actions**.
 
 - 🎯 **Goal:**  
-  Seeking a new opportunity in a **QA Role** where I can leverage my expertise in **test automation, AI-driven testing, cybersecurity in QA**, and **scalable test frameworks** to ensure **high-quality software** delivery. I aim to contribute to **innovative projects**, enhance **testing efficiency**, and drive **predictive defect detection** while continuously expanding my **DevOps, cloud testing,** and **performance optimization skills**.  
+  - Seeking a new opportunity in a **QA Role** where I can leverage my expertise in **test automation, AI-driven testing, cybersecurity in QA**, and **scalable test frameworks** to ensure **high-quality software** delivery. I aim to contribute to **innovative projects**, enhance **testing efficiency**, and drive **predictive defect detection** while continuously expanding my **DevOps, cloud testing,** and **performance optimization skills**.  
 
 ---
 
